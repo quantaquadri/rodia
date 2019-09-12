@@ -613,12 +613,12 @@ p {
 }
 
 .title-heading .heading {
-  font-size: 52px;
+  font-size: 60px;
   letter-spacing: 1px;
 }
 
 .title-heading .para-desc {
-  font-size: 18px;
+  font-size: 36px;
 }
 
 .section-title {
@@ -641,7 +641,7 @@ p {
 }
 
 .mt-100 {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 .mb-60 {
@@ -1737,7 +1737,7 @@ p {
 .watch-video a .play-icon-circle {
   height: 36px;
   width: 36px;
-  background-color: #6262A0;
+  background-color: #f79320;
   line-height: 36px;
 }
 
@@ -2423,4 +2423,4 @@ hr {
   border: 0;
   border-top: 1px solid #333744;
 }
-/*# sourceMappingURL=style.css.map */
+
