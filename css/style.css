@@ -2573,3 +2573,25 @@ hr {
   margin: auto auto 0;
   max-width: 160px;
 }
+
+
+.multiselect-container{
+  padding: 20px !important;
+}
+
+.multiselect-iem{
+  padding-bottom: 20px
+}
+
+.multiselect-container>li>a>label {
+  margin: 0;
+  height: 100%;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 3px 2px 3px 3px !important;
+  color: #000;
+}
+
+.multiselect-container>li>a>label>input[type=checkbox] {
+  margin-bottom: 15px !important;
+}
