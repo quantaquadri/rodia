@@ -29,7 +29,7 @@
 }
 
 .bg-light {
-  background-color: #f8f9fc !important;
+  background-color: #fafafa !important;
 }
 
 .bg-white{
@@ -1696,6 +1696,7 @@ p {
 .pricing-rates .title {
   font-weight: 700;
   font-size: 16px;
+  
 }
 
 .pricing-rates .feature .feature-list {
@@ -2594,4 +2595,17 @@ hr {
 
 .multiselect-container>li>a>label>input[type=checkbox] {
   margin-bottom: 15px !important;
+}
+
+
+.multiselect{
+  -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #dee2e6;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 5px;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
 }
